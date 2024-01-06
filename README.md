@@ -1,6 +1,8 @@
 # LaracApp: University of Lar android application
 I have done this Android project for University of Lar
 
+[Watch the introduction video](https://drive.google.com/file/d/1WIMk8_8hGDW3HAN317EBVUUv0yaZiL-7/view)
+
 # Program Features:
 
 1) Getting information from the university API.
@@ -54,7 +56,6 @@ I have done this Android project for University of Lar
 In the presentation clip, efforts have been made to show various parts of the application in both Persian and English languages. There are likely still bugs, and the application will be improved and developed in the future. 
 The possibility of sharing the project source code is not available. all copyrights belong to University of Lar.
 
-[![Watch the video]](https://drive.google.com/file/d/1WIMk8_8hGDW3HAN317EBVUUv0yaZiL-7/view)
 
 
 
