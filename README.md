@@ -57,3 +57,8 @@ In the presentation clip, efforts have been made to show various parts of the ap
 The possibility of sharing the project source code is not available. all copyrights belong to University of Lar.
 
 <img src="https://i.postimg.cc/N07VF91q/1.png" alt="Alt text" title="Optional title">
+<img src="https://i.postimg.cc/MT39fyH4/2.png" alt="Alt text" title="Optional title">
+<img src="https://i.postimg.cc/hPz5x390/3.png" alt="Alt text" title="Optional title">
+<img src="https://i.postimg.cc/j293mzrN/4.png" alt="Alt text" title="Optional title">
+<img src="https://i.postimg.cc/cC65FFP0/5.png" alt="Alt text" title="Optional title">
+<img src="https://i.postimg.cc/sDk0J9mC/6.png" alt="Alt text" title="Optional title">
