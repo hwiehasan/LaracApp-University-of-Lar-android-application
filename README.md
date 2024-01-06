@@ -55,10 +55,10 @@ I have done this Android project for University of Lar
 
 In the presentation clip, efforts have been made to show various parts of the application in both Persian and English languages. There are likely still bugs, and the application will be improved and developed in the future. 
 The possibility of sharing the project source code is not available. all copyrights belong to University of Lar.
+# Here are some pictures of the app
 
-<img src="https://i.postimg.cc/N07VF91q/1.png" alt="Alt text" title="Optional title">
-<img src="https://i.postimg.cc/MT39fyH4/2.png" alt="Alt text" title="Optional title">
-<img src="https://i.postimg.cc/hPz5x390/3.png" alt="Alt text" title="Optional title">
-<img src="https://i.postimg.cc/j293mzrN/4.png" alt="Alt text" title="Optional title">
-<img src="https://i.postimg.cc/cC65FFP0/5.png" alt="Alt text" title="Optional title">
-<img src="https://i.postimg.cc/sDk0J9mC/6.png" alt="Alt text" title="Optional title">
+| Image 1                     | Image 2                     | Image 3                     |
+|-----------------------------|-----------------------------|-----------------------------|
+| ![Image 1](https://i.postimg.cc/N07VF91q/1.png) | ![Image 2](https://i.postimg.cc/MT39fyH4/2.png) | ![Image 3](https://i.postimg.cc/hPz5x390/3.png) |
+| ![Image 4](https://i.postimg.cc/j293mzrN/4.png) | ![Image 5](https://i.postimg.cc/cC65FFP0/5.png) | ![Image 6](https://i.postimg.cc/sDk0J9mC/6.png) |
+
