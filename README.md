@@ -56,4 +56,4 @@ I have done this Android project for University of Lar
 In the presentation clip, efforts have been made to show various parts of the application in both Persian and English languages. There are likely still bugs, and the application will be improved and developed in the future. 
 The possibility of sharing the project source code is not available. all copyrights belong to University of Lar.
 
-![Alt text]([https://drive.google.com/file/d/1ftahcIl9_9FusQRzoxl3zm16t9I0NtBI/view)
+<img src="https://i.postimg.cc/N07VF91q/1.png" alt="Alt text" title="Optional title">
