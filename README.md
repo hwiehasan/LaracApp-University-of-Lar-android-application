@@ -1,5 +1,5 @@
 # LaracApp: University of Lar android application
-I have done this Android project for University of Lar
+I have done this Android project for University of  Lar, using Java and PHP.
 
 [Watch the introduction video](https://drive.google.com/file/d/1WIMk8_8hGDW3HAN317EBVUUv0yaZiL-7/view)
 
