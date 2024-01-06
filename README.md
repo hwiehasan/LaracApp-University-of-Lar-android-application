@@ -5,7 +5,7 @@ I have done this Android project for University of Lar
 
 # Program Features:
 
-1) Getting information from the university API.
+1) Getting information from the university APIs.
 2) Processing the received content.
 3) Displaying processed content.
 4) Storing content in SQLite database.
