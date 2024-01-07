@@ -54,7 +54,7 @@ I have done this Android project for University of  Lar, using Java and PHP.
 33) For the comments and likes section, a dedicated API is developed, and a database is created. Other sections are completely online.
 
 In the presentation clip, efforts have been made to show various parts of the application in both Persian and English languages. There are likely still bugs, and the application will be improved and developed in the future. 
-The possibility of sharing the project source code is not available. all copyrights belong to University of Lar.
+The possibility of sharing the project source code is not available. 
 # Here are some pictures of the app
 
 | Image 1                     | Image 2                     | Image 3                     |
